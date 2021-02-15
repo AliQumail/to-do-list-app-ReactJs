@@ -1,0 +1,20 @@
+.display {
+  background-color: white;
+  padding: 10px;
+  width: 400px;
+  min-height: 500px;
+  border-radius: 10%;
+}
+.inputDiv {
+  height: 37px;
+  position: relative;
+  top: 3px;
+  right: 3px;
+}
+ul {
+  text-align: center;
+}
+.heading {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}

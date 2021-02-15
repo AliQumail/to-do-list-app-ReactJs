@@ -1,0 +1,14 @@
+.listItem {
+  margin: 10px;
+}
+.items {
+  text-align: center;
+}
+.deleteBtn {
+  color: black;
+  border-radius: 100%;
+  height: 27px;
+
+  position: relative;
+  top: 10px;
+}
